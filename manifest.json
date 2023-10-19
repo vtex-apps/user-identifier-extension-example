@@ -1,0 +1,14 @@
+{
+  "vendor": "vtex",
+  "name": "user-identifier-extension-example",
+  "version": "0.0.1",
+  "builders": {
+    "store": "0.x",
+    "docs": "0.x",
+    "react": "3.x"
+  },
+  "dependencies": {
+    "vtex.login": "2.x"
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
